@@ -1,2 +1,0 @@
-# wikiverse
-Created with CodeSandbox
