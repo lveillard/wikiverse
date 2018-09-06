@@ -1,14 +1,17 @@
 {
-  "name": "protected-routes-and-auth",
+  "name": "wikiverse",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "bootstrap": "4.1.3",
     "react": "16.3.2",
     "react-dom": "16.3.2",
+    "react-google-button": "0.5.3",
     "react-router-dom": "4.3.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "reactstrap": "6.4.0"
   },
   "devDependencies": {},
   "scripts": {
